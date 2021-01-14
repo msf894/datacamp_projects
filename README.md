@@ -1,6 +1,9 @@
 # Projects from Datacamp
 
 **Project Descriptions:**
+
+* **A New Era of Data Analysis in Baseball** - There's a new era of data analysis in baseball. Using a new technology called Statcast, Major League Baseball is now collecting the precise location and movements of its baseballs and players. In this project, you will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees. The dataset used in this project is from Baseball Savant.
+
 * **Dr. Semmelweis and the Discovery of Handwashing** - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this project, you will reanalyze the medical data Semmelweis collected!
 
 * **Exploring the History of Lego** - The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
