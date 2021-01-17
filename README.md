@@ -1,12 +1,14 @@
-# Projects from Datacamp
+# Projects from DataCamp
 
-**Project Descriptions:**
+**Project Descriptions (taken from DataCamp):**
 
 * **A New Era of Data Analysis in Baseball** - There's a new era of data analysis in baseball. Using a new technology called Statcast, Major League Baseball is now collecting the precise location and movements of its baseballs and players. In this project, you will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees. The dataset used in this project is from Baseball Savant.
 
 * **Dr. Semmelweis and the Discovery of Handwashing** - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this project, you will reanalyze the medical data Semmelweis collected!
 
 * **Exploring the History of Lego** - The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
+
+* **Exploring the Evolution of Linux** - Version control repositories like CVS, Subversion or Git store rich evolution information about a software project. In this project, you'll be challenged to read in, clean up and visualize a real world Git repository dataset of the Linux kernel. With almost 700k commits and thousands of contributors, there are some little data cleaning and wrangling challenges that you'll encounter. But you'll also gain insights about the development activities over the last 13 years.
 
 * **Name Game: Gender Prediction using Sound** - The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books.First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children's picture books authors over time.
 
