@@ -6,6 +6,8 @@
 
 * **Analyze Your Runkeeper Fitness Data** - With the explosion in fitness tracker popularity, runners all of the world are collecting data with gadgets (smartphones, watches, etc.) to keep themselves motivated. exported seven years worth of my training data from Runkeeper. The data is a CSV file where each row is a single training activity. In this project, you'll import, clean, and analyze seven years worth of training data tracked on the Runkeeper app.
 
+* **Analyzing TV Data** - With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, you will use a combination of data manipulation and visualization to explore television data.In this project's  variant, you will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
+
 * **Dr. Semmelweis and the Discovery of Handwashing** - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this project, you will reanalyze the medical data Semmelweis collected!
 
 * **Exploring the History of Lego** - The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
