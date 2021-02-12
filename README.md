@@ -8,6 +8,8 @@
 
 * **Analyzing TV Data** - With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, you will use a combination of data manipulation and visualization to explore television data.In this project's  variant, you will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
 
+* **Disney Movies and Box Office Success** - Since the 1930s, Walt Disney Studios has released more than 600 films covering a wide range of genres. While some movies are indeed directed towards kids, many are intended for a broad audience. In this project, you will analyze data to see how Disney movies have changed in popularity since its first movie release. You will also perform hypothesis testing to see what aspects of a movie contribute to its success.
+
 * **Dr. Semmelweis and the Discovery of Handwashing** - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this project, you will reanalyze the medical data Semmelweis collected!
 
 * **Exploring the History of Lego** - The Rebrickable database includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, what color the bricks are, etc. It might be small bricks, but this is big data! In this project, you will get to explore the Rebrickable database and answer a series of questions related to the history of Lego!
