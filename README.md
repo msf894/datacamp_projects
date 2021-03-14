@@ -26,4 +26,6 @@
 
 * **Risk and Returns: The Sharpe Ratio** - When you assess whether to invest in an asset, you want to look not only at how much money you could make but also at how much risk you are taking. The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago, does precisely this: it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns. In this project, you will apply the Sharpe ratio to real financial data using pandas.
 
+* **Streamlining Employee Data** - In this project, you will import employee and human resources data in CSV, Excel, and JSON format. You will then merge it all into a single DataFrame, before cleaning it and exporting your results into a single CSV file.
+
 * **The GitHub History of the Scala Language** - In this project, you'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.
