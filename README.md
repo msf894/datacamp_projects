@@ -6,6 +6,8 @@
 
 * **Analyze Your Runkeeper Fitness Data** - With the explosion in fitness tracker popularity, runners all of the world are collecting data with gadgets (smartphones, watches, etc.) to keep themselves motivated. exported seven years worth of my training data from Runkeeper. The data is a CSV file where each row is a single training activity. In this project, you'll import, clean, and analyze seven years worth of training data tracked on the Runkeeper app.
 
+* **Analyzing Netflix Data** *  - In this project, you’ll apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. You’ll press “watch next episode” to discover if Netflix’s movies are getting shorter over time, using everything from lists and loops to pandas and matplotlib.
+
 * **Analyzing TV Data** - With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, you will use a combination of data manipulation and visualization to explore television data.In this project's  variant, you will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
 
 * **Disney Movies and Box Office Success** - Since the 1930s, Walt Disney Studios has released more than 600 films covering a wide range of genres. While some movies are indeed directed towards kids, many are intended for a broad audience. In this project, you will analyze data to see how Disney movies have changed in popularity since its first movie release. You will also perform hypothesis testing to see what aspects of a movie contribute to its success.
