@@ -32,4 +32,6 @@
 
 * **Streamlining Employee Data** - In this project, you will import employee and human resources data in CSV, Excel, and JSON format. You will then merge it all into a single DataFrame, before cleaning it and exporting your results into a single CSV file.
 
+* **The Android App Market on Google Play** - In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention. The data for this project was scraped from the Google Play website.
+
 * **The GitHub History of the Scala Language** - In this project, you'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.
