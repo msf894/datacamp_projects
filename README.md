@@ -14,6 +14,8 @@
 
 * **Analyzing TV Data** - With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, you will use a combination of data manipulation and visualization to explore television data.In this project's  variant, you will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
 
+* **Bad Passwords and the NIST Guidelines** - In June 2017 the National Institute of Standards and Technology (NIST) published publication 800-63B titled Digital Identity Guidelines: Authentication and Lifecycle Management. This publication doesn't tell you what is a good password, but it does have specific rules for what is a bad password. In this project, you will take a list of user passwords and, using publication 800-63B, you will write code that automatically detects and flags the bad passwords.
+
 * **Disney Movies and Box Office Success** - Since the 1930s, Walt Disney Studios has released more than 600 films covering a wide range of genres. While some movies are indeed directed towards kids, many are intended for a broad audience. In this project, you will analyze data to see how Disney movies have changed in popularity since its first movie release. You will also perform hypothesis testing to see what aspects of a movie contribute to its success.
 
 * **Dr. Semmelweis and the Discovery of Handwashing** - In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. In this project, you will reanalyze the medical data Semmelweis collected!
